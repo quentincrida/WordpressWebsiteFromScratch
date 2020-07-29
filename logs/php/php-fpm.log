@@ -1,0 +1,13 @@
+[28-Jul-2020 06:29:43] NOTICE: fpm is running, pid 6068
+[28-Jul-2020 06:29:43] NOTICE: ready to handle connections
+[28-Jul-2020 09:51:38] NOTICE: Terminating ...
+[29-Jul-2020 05:32:55] NOTICE: fpm is running, pid 3103
+[29-Jul-2020 05:32:55] NOTICE: ready to handle connections
+[29-Jul-2020 07:16:15] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/vptQI4nfr/php/php-fpm.socket
+[29-Jul-2020 07:16:15] ERROR: FPM initialization failed
+[29-Jul-2020 07:16:16] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/vptQI4nfr/php/php-fpm.socket
+[29-Jul-2020 07:16:16] ERROR: FPM initialization failed
+[29-Jul-2020 07:16:17] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/vptQI4nfr/php/php-fpm.socket
+[29-Jul-2020 07:16:17] ERROR: FPM initialization failed
+[29-Jul-2020 07:16:18] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/vptQI4nfr/php/php-fpm.socket
+[29-Jul-2020 07:16:18] ERROR: FPM initialization failed
