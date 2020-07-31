@@ -435,7 +435,43 @@ body {
        border-top: 2px solid #eee;
        padding: 8px;
    }
+   .comment-form {
+       display: flex;
+       flex-direction: column;
+   }
+   .comment-form input, 
+   .comment-form textarea{
+       margin-bottom: 16px;
+   }
+   .comment-note {
+       text-align: center;
+       color: red;
+   }
+   #comments-section textarea {
+       height: 160px;
+   }
+   .form-submit .submit,
+   .wpcf7 .wpcf7-submit {
+       background: white;
+       font-weight: bold;
+       width: 100%;
+       padding:8px;
+       border: 2px solid black;
+       height: 48px;
+       cursor: pointer;
+       transition: 0.4s;
+       box-shadow: initial;
+   }
+
+   .form-submit .submit:hover,
+   .wpcf7 .wpcf7-submit:hover {
+       backgound: red;
+       color: white;
+   }
    
+   .comment-reply-title {
+       text-align: center;
+   }
    /* Media Queries */
    
    @media (max-width: 900px){

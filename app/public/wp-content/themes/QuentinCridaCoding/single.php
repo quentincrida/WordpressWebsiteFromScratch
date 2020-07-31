@@ -39,9 +39,9 @@
                   $args = array(
                       'title_reply' => 'Share Your Thoughts',
                       'fields'=> $fields,
-                      'comment-field' => '<textarea placeholder="Your Comment" id="comment" name="comment" cols="45" rows="8" aria-required="true"
-                      </textarea>',
-                      'comment_notes_before' => '<p class="comment-notes>Your Email address will not be published. All fields are required</p>'
+                      'comment_field' => '<textarea placeholder="Your Comment" id="comment" name="comment" cols="45" rows="8" aria-required="true">' .
+                     '</textarea>',
+                      'comment_notes_before' => '<p class="comment-notes">Your Email address will not be published. All fields are required.</p>'
                   );
                     
                 
