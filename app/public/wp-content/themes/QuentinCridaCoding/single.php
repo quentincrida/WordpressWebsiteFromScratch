@@ -43,14 +43,15 @@
                      '</textarea>',
                       'comment_notes_before' => '<p class="comment-notes">Your Email address will not be published. All fields are required.</p>'
                   );
-                    
                 
                 comment_form($args);
+
                 $comments_number = get_comments_number();
                 if($comments_number != 0){
                     ?>
+
                     <div class="comments">
-                        <h3>What others say</h3>
+                        <h3>What others say:</h3>
                         <ol class="all-comments">
                             <?php 
                             $comments = get_comments(array(

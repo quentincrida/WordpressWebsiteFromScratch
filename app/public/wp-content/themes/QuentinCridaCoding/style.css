@@ -465,13 +465,28 @@ body {
 
    .form-submit .submit:hover,
    .wpcf7 .wpcf7-submit:hover {
-       backgound: red;
+       background: red;
        color: white;
    }
    
    .comment-reply-title {
        text-align: center;
    }
+
+   /*Comments List */
+
+   .comments {
+    margin-top: 24px;
+    border-top: 2px solid #eee;
+   }
+
+   .all-comments li {
+       list-style: none;
+       margin-bottom: 16px;
+   }
+   .all-comments .comment-meta
+
+
    /* Media Queries */
    
    @media (max-width: 900px){
