@@ -10,7 +10,7 @@ After downloading this project you need to follow these steps to reach my code a
 3. select wp-content
 4. select themes
 5. select QuentinCridaCoding
-6. Open this in your code editor
+(6. Open this in your code editor)
 7. In your browser, go to https://local.flywheel.com
 8. Free Download
 9. Select your OS from the list, fill in the form, click 'Get it Now!'
@@ -28,7 +28,7 @@ After downloading this project you need to follow these steps to reach my code a
 21. 'Show Folder'
 22. Select site(QuentinCridaCoding)/app/public/wp-content/themes
 23. Create new theme
-24. Add files from step 5/6 above
+24. Add Project files here from step 5/6 above
 25. go back to 'Local' and Wordpress dashboard ad refresh.
 26. Click 'Activate Theme'
 
