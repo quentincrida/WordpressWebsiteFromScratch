@@ -28,7 +28,8 @@ After downloading this project you need to follow these steps to reach my code a
 21. 'Show Folder'
 22. Select site(QuentinCridaCoding)/app/public/wp-content/themes
 23. Create new theme
-24. Add Project files here from step 5/6 above
-25. go back to 'Local' and Wordpress dashboard ad refresh.
+24. Add Project files here from step 5 above
+25. go back to 'Local' and Wordpress dashboard and refresh the screen.
 26. Click 'Activate Theme'
+27. For your next visit, just open 'Local' and click start site and via dashboard click 'Admin' and have your code open in Editor in case you need to change the back end. However, most changes should only require to be done via Wordpress dashboard.
 
