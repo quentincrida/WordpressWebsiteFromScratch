@@ -9,20 +9,26 @@ After downloading this project you need to follow these steps to reach my code a
 2. select public
 3. select wp-content
 4. select themes
-5. select quentinCridaCoding
+5. select QuentinCridaCoding
 6. Open this in your code editor
 7. In your browser, go to https://local.flywheel.com
 8. Free Download
-9. Select your OS from the list
-10. Install
+9. Select your OS from the list, fill in the form, click 'Get it Now!'
+10. Install and open
 11. Click '+' bottom left corner and add local site
 12. name the site (eg QuentinCridaCoding)
 13. Select Advanced Options and change if you want to. (Not necessary)
 14. Choose Your environment: Select Preferred Settings
 15. Select Continue
-16. Enter/create Username and Password
+16. Enter/create Username and Password, 'Add Site'
 17. Click 'Start Site'
-18. Click 'View Site'
-19. Back in local, click 'Admin' and enter username and password
-20. 
+18. Click  'View Site'
+19. Back in Local, click 'Admin' and enter username and password
+20. In 'Local', right click on website name (QuentinCridaCoding)
+21. 'Show Folder'
+22. Select site(QuentinCridaCoding)/app/public/wp-content/themes
+23. Create new theme
+24. Add files from step 5/6 above
+25. go back to 'Local' and Wordpress dashboard ad refresh.
+26. Click 'Activate Theme'
 
