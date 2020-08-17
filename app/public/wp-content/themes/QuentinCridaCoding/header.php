@@ -11,7 +11,7 @@
     <div id="slideout-menu">
         <ul>
             <li>
-                <a href="<?php echo site_url('');?>">Home</a>
+                <a href="">Home</a>
             </li>
             <li>
                 <a href="<?php echo site_url('/blog');?>">Blog</a>
@@ -30,7 +30,7 @@
     </div>
     <nav>
         <div id="logo-img">
-            <a href="#">
+            <a href="<?php echo site_url('');?>">
                 <img src="<?php echo get_template_directory_uri();?>/img/Quentin Crida (1).png" alt="Quentin Crida logo">
             </a>
         </div>
