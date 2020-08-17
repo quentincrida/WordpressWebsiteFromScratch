@@ -428,7 +428,49 @@ body {
        color: white;
        box-shadow: inset 27px 0 51px -18px rgba(0,0,0,0.75);
    }
+
+   #sidebar a {
+       color: #ddd;
+   }
    
+   #sidebar li {
+       margin: 8px 0;
+       list-style: none;
+   }
+
+   #sidebar li li {
+    margin-left: -16px;
+   }
+
+   #sidebar input {
+       width: 100%;
+       height: 42px;
+   }
+
+   #sidebar form {
+       position: relative;
+   }
+
+   #sidebar #search-btn {
+       background: white url('img/search-icon.png');
+       background-position: center;
+       background-repeat: no-repeat;
+       width: 48px;
+       height: 100%;
+       position: absolute;
+       right: 0; top: 0;
+       box-shadow: initial;
+       cursor: pointer;
+       border-left: 1px solid #ddd;
+       transition: 0.4s;
+   }
+
+   #sidebar #search-btn:hover {
+       background: red url('img/search-icon.png');
+       background-position: center;
+       background-repeat: no-repeat;
+   }
+
    /* Comments section */
    
    #comments-section{
