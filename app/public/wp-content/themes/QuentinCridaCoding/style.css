@@ -556,6 +556,22 @@ body {
    .all-comments .children {
        margin-top: 16px;
    } 
+
+   /* No results Page  */
+
+   .no-results {
+       text-align: center;
+   }
+
+   .no-results ul {
+       list-style: none;
+   }
+
+   .no-results h2 {
+       color: red;
+   }
+
+
    /* Media Queries */
    
    @media (max-width: 900px){
