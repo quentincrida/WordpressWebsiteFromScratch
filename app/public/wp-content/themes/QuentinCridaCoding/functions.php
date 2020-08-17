@@ -44,3 +44,18 @@ function qc_custom_post_type(){
 }
 
 add_action('init', 'qc_custom_post_type');
+
+// Sidebar
+
+function qc_widgets() {
+    register_sidebar(
+        array(
+            'name'=> 'Main Sidebar',
+            'id' => 'main_sidebar',
+            'before_title' => '<h3>',
+            'after_title' => '</h3>'
+        )
+        );
+}
+
+add_action('widgets_init', 'qc_widgets');
