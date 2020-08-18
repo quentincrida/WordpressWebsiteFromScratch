@@ -22,9 +22,9 @@
             <li>
                 <a href="<?php echo site_url('/about');?>">About</a>
             </li>
-            <li>
-                <input type="text" placeholder="Search Here">
-            </li>
+            <div class="searchbox-side-menu">
+                <?php get_search_form(); ?>
+            </div>
            
         </ul>
     </div>
@@ -67,7 +67,8 @@
     </nav>
 
     <div id="searchbox">
-        <input type="text" placeholder="Search Here">
+        <!-- <input type="text" placeholder="Search Here"> -->
+        <?php get_search_form(); ?>
     </div>
 
     <?php if(!is_front_page()){ ?>

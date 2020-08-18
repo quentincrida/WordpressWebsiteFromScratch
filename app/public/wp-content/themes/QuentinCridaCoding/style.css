@@ -85,8 +85,32 @@ body {
        transition: 0.4ms;
    }
    #searchbox input {
-       height: 32px;
+       height: 48px;
        width: 100%;
+   }
+
+   #searchbox #search-btn,
+   #slideout-menu #search-btn {
+       height: 48px;
+       width: 48px;
+       background: white url('img/search-icon.png');
+       background-position:center;
+       background-repeat: no-repeat;
+       position: absolute;
+       right: 0;
+       top: 0;
+       box-shadow: initial; 
+       transition: 0.4s;
+       cursor: pointer;
+       border: 1px solid #ddd;
+   }
+
+   #searchbox #search-btn:hover,
+   #slideout-menu #search-btn:hover {
+    background: red url('img/search-icon.png');
+    background-position:center;
+    background-repeat: no-repeat;
+
    }
    
    /* Navigation */
@@ -198,9 +222,14 @@ body {
        font-size: 20px;
        color: white;
    }
+
+   #slideout-menu form {
+       position: relative;
+   }
    
    #slideout-menu input {
-       width: 85%;
+       width: 100%;
+       height: 48px;
        padding: 8px;
        font-family: 'Roboto Condensed', sans-serif;
        font-size: 20px;
@@ -571,6 +600,20 @@ body {
        color: red;
    }
 
+   /* Contact form */
+
+    .wpcf7 input,
+    .wpcf7 textarea {
+        box-sizing: border-box;
+        width: 100%;
+        margin: 0;
+        padding: 0 16px;
+        height: 42px;
+    }
+
+    .wpcf7 textarea {
+        height: 100px;
+    }
 
    /* Media Queries */
    
