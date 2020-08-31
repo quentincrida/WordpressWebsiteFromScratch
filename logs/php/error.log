@@ -1,0 +1,127 @@
+[29-Jul-2020 09:44:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php on line 25
+[29-Jul-2020 09:48:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php on line 24
+[29-Jul-2020 09:48:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php on line 24
+[29-Jul-2020 09:51:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php on line 317
+[29-Jul-2020 09:51:07 UTC] PHP Stack trace:
+[29-Jul-2020 09:51:07 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:0
+[29-Jul-2020 09:51:07 UTC] PHP   2. require() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:17
+[29-Jul-2020 09:51:07 UTC] PHP   3. require_once() /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php:19
+[29-Jul-2020 09:51:07 UTC] PHP   4. include() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php:106
+[29-Jul-2020 09:51:07 UTC] PHP   5. the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php:17
+[29-Jul-2020 09:51:07 UTC] PHP   6. get_the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php:244
+[29-Jul-2020 09:51:58 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php on line 317
+[29-Jul-2020 09:51:58 UTC] PHP Stack trace:
+[29-Jul-2020 09:51:58 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:0
+[29-Jul-2020 09:51:58 UTC] PHP   2. require() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:17
+[29-Jul-2020 09:51:58 UTC] PHP   3. require_once() /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php:19
+[29-Jul-2020 09:51:58 UTC] PHP   4. include() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php:106
+[29-Jul-2020 09:51:58 UTC] PHP   5. the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php:17
+[29-Jul-2020 09:51:58 UTC] PHP   6. get_the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php:244
+[29-Jul-2020 09:53:15 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php on line 317
+[29-Jul-2020 09:53:15 UTC] PHP Stack trace:
+[29-Jul-2020 09:53:15 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:0
+[29-Jul-2020 09:53:15 UTC] PHP   2. require() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:17
+[29-Jul-2020 09:53:15 UTC] PHP   3. require_once() /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php:19
+[29-Jul-2020 09:53:15 UTC] PHP   4. include() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php:106
+[29-Jul-2020 09:53:15 UTC] PHP   5. the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php:17
+[29-Jul-2020 09:53:15 UTC] PHP   6. get_the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php:244
+[29-Jul-2020 09:53:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php on line 317
+[29-Jul-2020 09:53:17 UTC] PHP Stack trace:
+[29-Jul-2020 09:53:17 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:0
+[29-Jul-2020 09:53:17 UTC] PHP   2. require() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:17
+[29-Jul-2020 09:53:17 UTC] PHP   3. require_once() /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php:19
+[29-Jul-2020 09:53:17 UTC] PHP   4. include() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php:106
+[29-Jul-2020 09:53:17 UTC] PHP   5. the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php:17
+[29-Jul-2020 09:53:17 UTC] PHP   6. get_the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php:244
+[29-Jul-2020 09:55:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php on line 317
+[29-Jul-2020 09:55:29 UTC] PHP Stack trace:
+[29-Jul-2020 09:55:29 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:0
+[29-Jul-2020 09:55:29 UTC] PHP   2. require() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:17
+[29-Jul-2020 09:55:29 UTC] PHP   3. require_once() /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php:19
+[29-Jul-2020 09:55:29 UTC] PHP   4. include() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php:106
+[29-Jul-2020 09:55:29 UTC] PHP   5. the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php:17
+[29-Jul-2020 09:55:29 UTC] PHP   6. get_the_content() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/post-template.php:244
+[29-Jul-2020 09:56:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/page.php on line 30
+[31-Jul-2020 04:39:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 29
+[31-Jul-2020 04:44:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 30
+[31-Jul-2020 04:44:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 30
+[31-Jul-2020 04:46:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 30
+[31-Jul-2020 04:47:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php:3
+Stack trace:
+#0 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php(19): require_once('/home/quentin/L...')
+#2 /home/quentin/Local Sites/quentincridacoding/app/public/index.php(17): require('/home/quentin/L...')
+#3 {main}
+  thrown in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 3
+[31-Jul-2020 04:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php:4
+Stack trace:
+#0 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php(19): require_once('/home/quentin/L...')
+#2 /home/quentin/Local Sites/quentincridacoding/app/public/index.php(17): require('/home/quentin/L...')
+#3 {main}
+  thrown in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 4
+[31-Jul-2020 04:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php:4
+Stack trace:
+#0 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php(19): require_once('/home/quentin/L...')
+#2 /home/quentin/Local Sites/quentincridacoding/app/public/index.php(17): require('/home/quentin/L...')
+#3 {main}
+  thrown in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 4
+[31-Jul-2020 04:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function have_post() in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php:4
+Stack trace:
+#0 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php(19): require_once('/home/quentin/L...')
+#2 /home/quentin/Local Sites/quentincridacoding/app/public/index.php(17): require('/home/quentin/L...')
+#3 {main}
+  thrown in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 4
+[31-Jul-2020 05:04:52 UTC] PHP Warning:  Use of undefined constant comments_number - assumed 'comments_number' (this will throw an Error in a future version of PHP) in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 27
+[31-Jul-2020 05:04:52 UTC] PHP Stack trace:
+[31-Jul-2020 05:04:52 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:0
+[31-Jul-2020 05:04:52 UTC] PHP   2. require() /home/quentin/Local Sites/quentincridacoding/app/public/index.php:17
+[31-Jul-2020 05:04:52 UTC] PHP   3. require_once() /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php:19
+[31-Jul-2020 05:04:52 UTC] PHP   4. include() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php:106
+[31-Jul-2020 09:14:31 UTC] PHP Parse error:  syntax error, unexpected ''</textarea>'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 43
+[04-Aug-2020 15:24:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 70
+[04-Aug-2020 15:24:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 67
+[04-Aug-2020 15:24:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 67
+[04-Aug-2020 15:25:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 67
+[04-Aug-2020 15:25:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 67
+[17-Aug-2020 04:57:52 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php on line 13
+[17-Aug-2020 05:29:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/functions.php on line 62
+[17-Aug-2020 05:30:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/functions.php on line 62
+[17-Aug-2020 05:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function echo_home_url() in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/searchform.php:1
+Stack trace:
+#0 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/general-template.php(302): require()
+#1 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/widgets/class-wp-widget-search.php(54): get_search_form()
+#2 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/class-wp-widget.php(380): WP_Widget_Search->widget(Array, Array)
+#3 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/widgets.php(805): WP_Widget->display_callback(Array, Array)
+#4 /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php(77): dynamic_sidebar('main_sidebar')
+#5 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php(106): include('/home/quentin/L...')
+#6 /home/quentin/Local Sites/quentincridacoding/app/public/wp-bl in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/searchform.php on line 1
+[17-Aug-2020 06:51:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/search.php on line 47
+[17-Aug-2020 06:52:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/search.php on line 61
+[17-Aug-2020 06:52:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/search.php on line 61
+[17-Aug-2020 06:52:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/search.php on line 61
+[17-Aug-2020 06:52:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/search.php on line 61
+[18-Aug-2020 04:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_search_box() in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/header.php:26
+Stack trace:
+#0 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template.php(730): require_once()
+#1 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template.php(676): load_template('/home/quentin/L...', true, Array)
+#2 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/single.php(1): get_header()
+#4 /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/template-loader.php(106): include('/home/quentin/L...')
+#5 /home/quentin/Local Sites/quentincridacoding/app/public/wp-blog-header.php(19): require_once('/home/quentin/L...')
+#6 /home/quentin/Local Sites/quentincridacoding/app/public/index.php(17): require('/home/ in /home/quentin/Local Sites/quentincridacoding/app/public/wp-content/themes/QuentinCridaCoding/header.php on line 26
+[18-Aug-2020 06:32:55 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'can_compress_scripts' LIMIT 1 made by include('phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_widgets_init, do_action('widgets_init'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget_Text->_register_one, wp_add_inline_script, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_packages, wp_register_tinymce_scripts, script_concat_settings, get_site_option, get_network_option, get_option
+[18-Aug-2020 06:32:55 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'can_compress_scripts' LIMIT 1 made by include('phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_widgets_init, do_action('widgets_init'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget_Text->_register_one, wp_add_inline_script, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_packages, wp_register_tinymce_scripts, script_concat_settings, get_site_option, get_network_option, get_option
+[18-Aug-2020 06:32:55 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'can_compress_scripts' LIMIT 1 made by include('phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///opt/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_widgets_init, do_action('widgets_init'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget_Text->_register_one, wp_add_inline_script, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_packages, wp_register_tinymce_scripts, script_concat_settings, get_site_option, get_network_option, get_option
+[28-Aug-2020 05:18:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=4159 in /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/wp-db.php on line 2033
+[28-Aug-2020 05:18:09 UTC] PHP Stack trace:
+[28-Aug-2020 05:18:09 UTC] PHP   1. {main}() /home/quentin/Local Sites/quentincridacoding/app/public/wp-cron.php:0
+[28-Aug-2020 05:18:09 UTC] PHP   2. wp_unschedule_event() /home/quentin/Local Sites/quentincridacoding/app/public/wp-cron.php:127
+[28-Aug-2020 05:18:09 UTC] PHP   3. _set_cron_array() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/cron.php:379
+[28-Aug-2020 05:18:09 UTC] PHP   4. update_option() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/cron.php:967
+[28-Aug-2020 05:18:09 UTC] PHP   5. wpdb->update() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/option.php:440
+[28-Aug-2020 05:18:09 UTC] PHP   6. wpdb->query() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/wp-db.php:2338
+[28-Aug-2020 05:18:09 UTC] PHP   7. wpdb->_do_query() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/wp-db.php:1922
+[28-Aug-2020 05:18:09 UTC] PHP   8. mysqli_query() /home/quentin/Local Sites/quentincridacoding/app/public/wp-includes/wp-db.php:2033
